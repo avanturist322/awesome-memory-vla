@@ -4,6 +4,9 @@ This is a collection of research papers for Visual-Language-Action (VLA) models 
 
 Since most VLAs are based on Visual-Language Models (VLMs), we also included a section on VLMs with memory.
 
+TODOs:
+- [ ] Separate navigation and manipulation models with memory
+
 -----
 Contributions are welcome. Submit a [PR](https://github.com/avanturist322/awesome-memory-vla/pulls) with relevant papers or resources you consider significant.
 ```
