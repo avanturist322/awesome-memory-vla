@@ -2,6 +2,8 @@
 
 This is a collection of research papers for Visual-Language-Action (VLA) models with memory, designed to solve long-horizon, partially observabe tasks. The repository shall be regularly updated to track the frontiers.
 
+Since most VLAs are based on Visual-Language Models (VLMs), we also included a section on VLMs with memory.
+
 -----
 Contributions are welcome. Submit a [PR](https://github.com/avanturist322/awesome-memory-vla/pulls) with relevant papers or resources you consider significant.
 ```
@@ -10,12 +12,14 @@ format:
   - author1, author2, and author3...
 ```
 
-## Papers
+## Papers | VLA + memory
 ### 2025
 - [MemER: Scaling Up Memory for Robot Control via Experience Retrieval](https://arxiv.org/abs/2510.20328)
   - Ajay Sridhar, Jennifer Pan, Satvik Sharma, Chelsea Finn
 - [MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2508.19236)
   - Hao Shi, Bin Xie, Yingfei Liu, Lin Sun, Fengrong Liu, Tiancai Wang, Erjin Zhou, Haoqiang Fan, Xiangyu Zhang, Gao Huang
+- [Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning](https://arxiv.org/abs/2502.10550)
+  - Egor Cherepanov, Nikita Kachaev, Alexey K. Kovalev, Aleksandr I. Panov
 - [MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation](https://arxiv.org/abs/2511.09516)
   - Runhao Li, Wenkai Guo, Zhenyu Wu, Changyuan Wang, Haoyuan Deng, Zhenyu Weng, Yap-Peng Tan, Ziwei Wang
 - [Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective](https://arxiv.org/abs/2511.11478)
@@ -40,3 +44,10 @@ format:
   - Huiwon Jang, Sihyun Yu, Heeseung Kwon, Hojin Jeon, Younggyo Seo, Jinwoo Shin
 - [GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2512.01801)
   - Yunfei Li, Xiao Ma, Jiafeng Xu, Yu Cui, Zhongren Cui, Zhigang Han, Liqun Huang, Tao Kong, Yuxiao Liu, Hao Niu, Wanli Peng, Jingchao Qiao, Zeyu Ren, Haixin Shi, Zhi Su, Jiawen Tian, Yuyang Xiao, Shenyu Zhang, Liwei Zheng, Hang Li, Yonghui Wu
+
+## Papers | VLM + memory
+### 2025
+- [VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management](https://arxiv.org/abs/2512.04540)
+  - Hongbo Jin, Qingyuan Wang, Wenhao Zhang, Yang Liu, Sijie Cheng
+- [Vision-Language Memory for Spatial Reasoning](https://arxiv.org/abs/2511.20644)
+  - Zuntao Liu, Yi Du, Taimeng Fu, Shaoshu Su, Cherie Ho, Chen Wang
