@@ -17,6 +17,10 @@ format:
 
 ## Papers | VLA + memory
 ### 2025
+- [CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding](https://arxiv.org/abs/2512.01022)
+  - Yi-Lin Wei, Haoran Liao, Yuhao Lin, Pengyue Wang, Zhizhao Liang, Guiliang Liu, Wei-Shi Zheng
+- [History-Aware Visuomotor Policy Learning via Point Tracking](https://arxiv.org/abs/2509.17141)
+  - Jingjing Chen, Hongjie Fang, Chenxi Wang, Shiquan Wang, Cewu Lu
 - [MemER: Scaling Up Memory for Robot Control via Experience Retrieval](https://arxiv.org/abs/2510.20328)
   - Ajay Sridhar, Jennifer Pan, Satvik Sharma, Chelsea Finn
 - [MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2508.19236)
