@@ -1,4 +1,8 @@
 # Awesome Memory VLA
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=avanturist322/awesome-memory-vla&label=visitors&countColor=%23263759&style=flat)
+
 This is a collection of research papers for Visual-Language-Action (VLA) models with memory, designed to solve long-horizon, partially observabe tasks. The repository shall be regularly updated to track the frontiers. 
 As there is no generally accepted definition of memory in the context of VLA, we include all works related to the ability of VLA systems to process information over horizons longer than a single step.
 
