@@ -6,8 +6,6 @@
 This is a collection of research papers for Visual-Language-Action (VLA) models with memory, designed to solve long-horizon, partially observabe tasks. The repository shall be regularly updated to track the frontiers. 
 As there is no generally accepted definition of memory in the context of VLA, we include all works related to the ability of VLA systems to process information over horizons longer than a single step.
 
-Since most VLAs are based on Visual-Language Models (VLMs), we also included a section on VLMs with memory.
-
 **Keywords:** `memory` · `key frame selection` · `long-horizon` · `partial observability` · `POMDP` · `long context`
 
 -----
@@ -21,6 +19,16 @@ format:
 ## Papers | VLA + memory
 
 ### 2026
+- [Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](https://arxiv.org/abs/2605.22283)
+  - Pengteng Li, Weiyu Guo, He Zhang, Tiefu Cai, Xiao He, Yandong Guo, Hui Xiong
+- [VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models](https://arxiv.org/abs/2605.20774)
+  - Alex S. Huang, Jiahui Zhang, Shiqing Tang, Yu Xiang
+- [RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921)
+  - Huashuo Lei, Wenxuan Song, Huarui Zhang, Jieyuan Pei, Jiayi Chen, Haodong Yan, Han Zhao, Pengxiang Ding, Zhipeng Zhang, Lida Huang, Donglin Wang, Yan Wang, Haoang Li
+- [ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models](https://arxiv.org/abs/2605.10993)
+  - Yanbin Hu, Jin Cui, Jiayi Lu, Ruixuan Yang, Jun Ye, Boran Zhao, Xingyu Chen, Xuguang Lan, Pengju Ren
+- [Long-Term Memory for VLA-based Agents in Open-World Task Execution](https://arxiv.org/abs/2604.15671)
+  - Xu Huang, Weixin Mao, Yinhao Li, Hua Chen, Jiabao Zhao
 - [CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models](https://arxiv.org/abs/2604.22238)
   - Khoa Vo, Sieu Tran, Taisei Hanyu, Yuki Ikebe, Duy Nguyen, Bui Duy Quoc Nghi, Minh Vu, Anthony Gunderman, Chase Rainwater, Anh Nguyen, Ngan Le
 - [Gated Memory Policy](https://arxiv.org/abs/2604.18933)
@@ -155,10 +163,3 @@ format:
   - Yunfei Li, Xiao Ma, Jiafeng Xu, Yu Cui, Zhongren Cui, Zhigang Han, Liqun Huang, Tao Kong, Yuxiao Liu, Hao Niu, Wanli Peng, Jingchao Qiao, Zeyu Ren, Haixin Shi, Zhi Su, Jiawen Tian, Yuyang Xiao, Shenyu Zhang, Liwei Zheng, Hang Li, Yonghui Wu
 - [CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks](https://arxiv.org/abs/2112.03227)
   - Oier Mees, Lukas Hermann, Erick Rosete-Beas, Wolfram Burgard
-
-## Papers | VLM + memory
-### 2025
-- [VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management](https://arxiv.org/abs/2512.04540)
-  - Hongbo Jin, Qingyuan Wang, Wenhao Zhang, Yang Liu, Sijie Cheng
-- [Vision-Language Memory for Spatial Reasoning](https://arxiv.org/abs/2511.20644)
-  - Zuntao Liu, Yi Du, Taimeng Fu, Shaoshu Su, Cherie Ho, Chen Wang
