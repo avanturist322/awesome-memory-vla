@@ -3,8 +3,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=avanturist322/awesome-memory-vla&label=visitors&countColor=%23263759&style=flat)
 
-This is a collection of research papers for Visual-Language-Action (VLA) models with memory, designed to solve long-horizon, partially observabe tasks. The repository shall be regularly updated to track the frontiers. 
+This is a collection of research papers for Visual-Language-Action (VLA) models and World Action Models (WAM) with memory, designed to solve long-horizon, partially observabe tasks. The repository shall be regularly updated to track the frontiers. 
 As there is no generally accepted definition of memory in the context of VLA, we include all works related to the ability of VLA systems to process information over horizons longer than a single step.
+
+> This list is curated by a human, with each entry verified by reading the actual content of the papers — not compiled by agents.
 
 **Keywords:** `memory` · `key frame selection` · `long-horizon` · `partial observability` · `POMDP` · `long context`
 
@@ -21,6 +23,22 @@ format:
 ### 2026
 - [μVLA: On Recurrent Memory for Partially Observable Manipulation in VLA Models](https://arxiv.org/abs/2606.12497)
   - Egor Cherepanov, Nikita Kachaev, Daniil Zelezetsky, Aydar Bulatov, Artem Pshenitsyn, Yuri Kuratov, Alexey Skrynnik, Aleksandr I. Panov, Alexey K. Kovalev
+- [SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2606.12956)
+  - Sunghwan Kim, Byeonghyun Pak, Kehan Long, Yulun Tian, Nikolay Atanasov
+- [Analytic Concept-Centric Memory for Agentic Embodied Manipulation](https://arxiv.org/abs/2606.29774)
+  - Mingyang Sun, Xiujian Liang, Jiude Wei, Qichen He, Donglin Wang, Cewu Lu, Jianhua Sun
+- [DIM-WAM: World-Action Modeling with Diverse Historical Event Memory](https://arxiv.org/abs/2606.27677)
+  - Kai Wang, Zhaopeng Gu, Yixiang Chen, Yuan Xu, Qisen Ma, Peng Su, Zhaowen Li, Yan Huang, Liang Wang
+- [World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/abs/2606.27374)
+  - Manish Kumar Govind, Dominick Reilly, Smit Patel, Hieu Le, Srijan Das
+- [KEMO: Event-Driven Keyframe Memory for Long-Horizon Robot Manipulation with VLA Policies](https://arxiv.org/abs/2606.23589)
+  - Yihan Zeng, Minghao Ye, Yiyuan Chen, Yide Shentu, Philipp Wu, Zike Yan, Zhongyu Li
+- [MemoryVAM: Integrating Memory into Video Action Model for Robot Manipulation](https://arxiv.org/abs/2606.20679)
+  - Yuxin Jiang, Chang Yu, Yunuo Chen, Xiang Feng, Yin Yang, Nishank Gite, Chenfanfu Jiang
+- [Reflective VLA: In-Context Action Consequences Make VLAs Generalize](https://arxiv.org/abs/2606.25215)
+  - Qing Lian, Kent Yu, Lei Zhang
+- [S^2-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation](https://arxiv.org/abs/2606.27872)
+  - Zhipeng Xie, Zongyi Han, Xiangyi Wei, Shiliang Sun, Yang Li, Jing Zhao
 - [MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827)
   - Hao Shi, Weiye Li, Bin Xie, Yulin Wang, Renping Zhou, Tiancai Wang, Xiangyu Zhang, Ping Luo, Gao Huang
 - [WeaveLA: Event Driven Cross-Subtask Latent Memory Weaving for Repetitive Robot Manipulation](https://arxiv.org/abs/2606.17463)
