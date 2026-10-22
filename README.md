@@ -21,6 +21,9 @@ format:
 ## Papers | VLA + memory
 
 ### 2026
+
+- [EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)
+  - Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, and Wenqi Zhang
 - [MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation](https://mikasarobo.github.io/)
   - Egor Cherepanov, Nikita Kachaev, Alexey K. Kovalev, Aleksandr I. Panov
 - [μVLA: On Recurrent Memory for Partially Observable Manipulation in VLA Models](https://arxiv.org/abs/2606.12497)
