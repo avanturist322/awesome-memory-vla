@@ -22,6 +22,8 @@ format:
 
 ### 2026
 
+- [HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation](https://arxiv.org/abs/2611.02660)
+  - Gyeonghun Kim, Donghoon Kim, Minsoo Choi, and Suyun Lee
 - [EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)
   - Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, and Wenqi Zhang
 - [MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation](https://mikasarobo.github.io/)
